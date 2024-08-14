@@ -1,0 +1,23 @@
+Server: Good evening! Welcome to "Culinary Delights." My name is Sarah, and I'll be your server tonight. Can I start you off with something to drink?
+
+Customer: Good evening, Sarah. Thank you for your welcome. I'll have a glass of the house red wine, please.
+
+Server: Of course, a glass of the house red wine. Is there anything you'd like to start with for an appetizer, or would you like some more time with the menu?
+
+Customer: I think we'll start with the calamari appetizer, please. And can you let me know if it comes with any dipping sauce?
+
+Server: Certainly! The calamari comes with a garlic aioli dipping sauce. Is that alright with you?
+
+Customer: Yes, that sounds delicious. Thank you. For the main course, I'll have the grilled salmon, but can you ask the kitchen to prepare it without any butter? I'm lactose intolerant.
+
+Server: Of course, I'll make sure to note that down. Grilled salmon without butter. Any side dish with that, like our garlic mashed potatoes or sautéed vegetables?
+
+Customer: I'll have the sautéed vegetables, please. And can I get a side salad with balsamic vinaigrette dressing as well?
+
+Server: Absolutely, sautéed vegetables and a side salad with balsamic vinaigrette. Great choices! Is there anything else I can assist you with?
+
+Customer: No, that should be all for now, thank you.
+
+Server: Alright, I'll get that order in for you. Your drinks will be out shortly, and your appetizer will follow soon after. If you need anything else or have any more questions, please don't hesitate to let me know. Enjoy your evening!
+
+Customer: Thank you, Sarah. We appreciate your help.
